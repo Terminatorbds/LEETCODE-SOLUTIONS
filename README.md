@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+## Array
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
