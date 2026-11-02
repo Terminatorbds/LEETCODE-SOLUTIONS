@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
