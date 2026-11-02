@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+| [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 ## Math
 |  |
 | ------- |
@@ -32,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
 <!---LeetCode Topics End-->
