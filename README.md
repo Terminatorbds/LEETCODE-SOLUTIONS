@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
