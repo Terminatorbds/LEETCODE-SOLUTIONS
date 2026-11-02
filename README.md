@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Pigeonhole Principle
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
