@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 ## Math
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
