@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
+| [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 <!---LeetCode Topics End-->
