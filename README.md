@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
