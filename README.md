@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2401-count-asterisks](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
