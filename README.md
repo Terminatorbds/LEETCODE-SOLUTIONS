@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
+| [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
+| [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2401-count-asterisks](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
