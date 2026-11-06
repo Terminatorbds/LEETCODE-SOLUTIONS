@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1448-maximum-69-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
