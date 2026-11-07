@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2383-add-two-integers](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
+| [2752-sum-multiples](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 ## Pigeonhole Principle
