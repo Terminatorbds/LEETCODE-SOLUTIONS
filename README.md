@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1899-count-items-matching-a-rule) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1899-count-items-matching-a-rule) |
 | [1954-replace-all-digits-with-characters](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2401-count-asterisks](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
