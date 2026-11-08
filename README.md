@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
+| [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
+| [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 ## Matrix
 |  |
 | ------- |
