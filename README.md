@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1899-count-items-matching-a-rule) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
