@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
 | [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
+| [3312-number-of-changing-keys](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
