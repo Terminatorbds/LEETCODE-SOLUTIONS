@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-destination-city](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1547-destination-city](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1547-destination-city) |
 | [1899-count-items-matching-a-rule](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1899-count-items-matching-a-rule) |
 | [1954-replace-all-digits-with-characters](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
