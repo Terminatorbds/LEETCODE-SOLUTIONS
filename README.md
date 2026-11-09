@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [4332-check-good-integer](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4332-check-good-integer) |
 ## Pigeonhole Principle
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
