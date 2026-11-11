@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2226-rings-and-rods](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
+| [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3312-number-of-changing-keys](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Greedy
