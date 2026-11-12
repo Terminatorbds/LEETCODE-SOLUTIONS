@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
 | [4332-check-good-integer](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4332-check-good-integer) |
 | [4384-elevator-requests-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4384-elevator-requests-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1839-decode-xored-array) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
