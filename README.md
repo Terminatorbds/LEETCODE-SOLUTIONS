@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1839-decode-xored-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
