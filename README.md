@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3226-minimum-number-game](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
+| [3226-minimum-number-game](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Greedy
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1708-design-parking-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
