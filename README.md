@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4107-find-missing-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4332-check-good-integer](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4332-check-good-integer) |
 ## Pigeonhole Principle
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/4058-compute-alternating-sum) |
