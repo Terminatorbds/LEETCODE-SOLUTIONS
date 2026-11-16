@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1547-destination-city) |
+| [1580-shuffle-the-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1677-matrix-diagonal-sum) |
