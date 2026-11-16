@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2383-add-two-integers](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2496-count-days-spent-together) |
 | [2752-sum-multiples](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Terminatorbds/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
